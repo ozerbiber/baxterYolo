@@ -1,0 +1,8 @@
+prefix=/home/ozerbiber/catkin_ws/install
+
+Name: simple_voice
+Description: Description of simple_voice
+Version: 0.1.1
+Cflags: -I/home/ozerbiber/catkin_ws/install/include
+Libs: -L/home/ozerbiber/catkin_ws/install/lib -lsimple_voice
+Requires: rospy message_runtime std_msgs

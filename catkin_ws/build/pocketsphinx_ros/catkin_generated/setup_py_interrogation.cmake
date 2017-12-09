@@ -1,0 +1,6 @@
+set(uchile_speech_pocketsphinx_SETUP_PY_VERSION "2.0.0")
+set(uchile_speech_pocketsphinx_SETUP_PY_SCRIPTS "")
+set(uchile_speech_pocketsphinx_SETUP_PY_PACKAGES "uchile_speech_pocketsphinx")
+set(uchile_speech_pocketsphinx_SETUP_PY_PACKAGE_DIRS "src/uchile_speech_pocketsphinx")
+set(uchile_speech_pocketsphinx_SETUP_PY_MODULES "")
+set(uchile_speech_pocketsphinx_SETUP_PY_MODULE_DIRS "")

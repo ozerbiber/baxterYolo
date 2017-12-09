@@ -1,0 +1,8 @@
+prefix=/home/ozerbiber/catkin_ws/devel
+
+Name: cerevoice_tts
+Description: Description of cerevoice_tts
+Version: 0.0.1
+Cflags: -I/home/ozerbiber/catkin_ws/devel/include
+Libs: -L/home/ozerbiber/catkin_ws/devel/lib 
+Requires: roscpp rospy std_msgs message_generation

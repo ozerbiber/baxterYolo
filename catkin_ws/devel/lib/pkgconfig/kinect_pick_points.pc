@@ -1,0 +1,8 @@
+prefix=/home/ozerbiber/catkin_ws/devel
+
+Name: kinect_pick_points
+Description: Description of kinect_pick_points
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/ozerbiber/catkin_ws/devel/lib 
+Requires: 

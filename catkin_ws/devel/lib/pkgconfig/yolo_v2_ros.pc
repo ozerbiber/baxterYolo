@@ -1,0 +1,8 @@
+prefix=/home/ozerbiber/catkin_ws/devel
+
+Name: yolo_v2_ros
+Description: Description of yolo_v2_ros
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/ozerbiber/catkin_ws/devel/lib 
+Requires: message_runtime

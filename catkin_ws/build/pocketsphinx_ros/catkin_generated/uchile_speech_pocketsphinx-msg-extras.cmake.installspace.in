@@ -1,0 +1,2 @@
+set(uchile_speech_pocketsphinx_MESSAGE_FILES "msg/DoRecognitionAction.msg;msg/DoRecognitionActionGoal.msg;msg/DoRecognitionActionResult.msg;msg/DoRecognitionActionFeedback.msg;msg/DoRecognitionGoal.msg;msg/DoRecognitionResult.msg;msg/DoRecognitionFeedback.msg")
+set(uchile_speech_pocketsphinx_SERVICE_FILES "srv/RecognitionOrder.srv")

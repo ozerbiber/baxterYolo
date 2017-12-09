@@ -1,0 +1,8 @@
+prefix=/home/ozerbiber/catkin_ws/install
+
+Name: boundingbox_msgs
+Description: Description of boundingbox_msgs
+Version: 0.0.0
+Cflags: -I/home/ozerbiber/catkin_ws/install/include
+Libs: -L/home/ozerbiber/catkin_ws/install/lib 
+Requires: message_runtime

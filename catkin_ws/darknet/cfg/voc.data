@@ -1,0 +1,6 @@
+classes= 20
+train  = /home/ozerbiber/darknet/vocData/train.txt
+valid  = /home/ozerbiber/darknet/vocData/2007_test.txt
+names = data/voc.names
+backup = backup
+
