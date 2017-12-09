@@ -1,0 +1,6 @@
+/home/ozerbiber/ros_ws/install/_setup_util.py
+/home/ozerbiber/ros_ws/install/env.sh
+/home/ozerbiber/ros_ws/install/setup.bash
+/home/ozerbiber/ros_ws/install/setup.sh
+/home/ozerbiber/ros_ws/install/setup.zsh
+/home/ozerbiber/ros_ws/install/.rosinstall
